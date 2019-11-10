@@ -1,5 +1,5 @@
-# Author: Ivanoel Rodrigo
-# Implementa-o-de-Redes-no-Packet-Tracer
+﻿# Author: Ivanoel Rodrigo
+# Implementa-Redes-no-Packet-Tracer
 ## ===========================================##
 #
 # Packet Tracer - Navegação no IOS
